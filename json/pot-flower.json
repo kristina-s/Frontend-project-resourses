@@ -1,0 +1,355 @@
+[
+    {
+      "id" : "01",
+      "name" : "Laceleaf",
+      "latinName" : "Anthurium Andreanum",
+      "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/anthurium-title.jpg",
+      "bloomTime" : "winter",
+      "humidity" : "medium",
+      "light" : "half-shadow",
+      "description" : "A decorative pot flower that lives many and grows 30-40 cm in height. It is characterised by it's red flowers and has got dark green leaves. ",
+      "images" : [
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-1.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-2.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-3.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-4.jpg"
+        ]
+    },
+    {
+      "id" : "02",
+      "name" : "Gardenia",
+      "latinName" : "Gardenia jasminoides",
+      "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/gardenia-title.jpg",
+      "bloomTime" : "summer",
+      "humidity" : "high",
+      "light" : "sunlight",
+      "description" : "A decorative pot or garden plant which is an evergreen small bush with oval shiny dark-green leaves. It can grow up to 2 metres and it's white flowers are very scented.",
+      "images" : [
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-1.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-2.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-3.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-4.jpg"
+        ]
+    },
+    {
+      "id" : "03",
+      "name" : "Magnolia",
+      "latinName" : "Magnolia Grandiflora",
+      "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/magnolia-title.jpg",
+      "bloomTime" : "summer",
+      "humidity" : "medium",
+      "light" : "half-shadow",
+      "description" : "A beautiful evergreen plant with a pyramid-like shape. It has got shiny green leaves and big white flowers that are also scented.",
+      "images" : [
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-1.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-2.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-3.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-4.jpg"
+        ]
+    },
+    {
+      "id" : "04",
+      "name" : "Cactus",
+      "latinName" : "Cactaceae",
+      "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/cactus-title.jpg",
+      "bloomTime" : "spring",
+      "humidity" : "low",
+      "light" : "sunlight",
+      "description" : "A decorative plant that has round structure and not much branching. It's pointy ends are very sharp and 5-10 centimetres long. It has got white flowers.",
+      "images" : [
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-1.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-2.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-3.jpg",
+        "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-4.jpg"
+        ]
+    },
+    {
+        "id" : "05",
+        "name" : "Jasmine",
+        "latinName" : "Jasminum",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/jasmine-title.jpeg",
+        "bloomTime" : "summer",
+        "humidity" : "low",
+        "light" : "sunlight",
+        "description" : "A pot and garden flower that has Persian origin. It's characterised by its soft green leaves and crystal white very scented flowers.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-4.jpg"
+          ]
+      },
+      {
+        "id" : "06",
+        "name" : "Begonia",
+        "latinName" : "Begonia tuberosa",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/begonia-potted.png",
+        "bloomTime" : "summer",
+        "humidity" : "low",
+        "light" : "half-shadow",
+        "description" : "A decorative pot flower characterised by its dark green leaves and flowers that can be of many colours varying from white, red, scarlet, yellow, etc.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-4.jpg"
+          ]
+      },
+      {
+        "id" : "07",
+        "name" : "Tree mallows",
+        "latinName" : "Lavatera trimestris",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/treemallows-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "medium",
+        "light" : "sunlight",
+        "description" : "A pot and garden plant with round leaves that grows from 20 to 80 centimetres. Flowers are usually pink with lilac lines.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-4.jpg"
+          ]
+      },
+      {
+        "id" : "08",
+        "name" : "Petunia",
+        "latinName" : "Petunia hybrid",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/petunia-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "low",
+        "light" : "sunlight",
+        "description" : "One of the most famous pot flowers that usually decorate or homes or balconies in the summer. Its flowers are small and of many different colours.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-4.jpg"
+          ]
+      },
+      {
+        "id" : "09",
+        "name" : "Lavender",
+        "latinName" : "Lavandula spica officinalis",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/lavender-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "low",
+        "light" : "sunlight",
+        "description" : "A graden or pot plant that can have many uses even as a dried plant. It's flowers are purple and small, but its smell is felt from afar.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-4.jpg"
+          ]
+      },
+      {
+        "id" : "10",
+        "name" : "Violet",
+        "latinName" : "Viola calcarata",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/violet-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "medium",
+        "light" : "sunlight",
+        "description" : "Violas (Violaceae) are cheerful, hardy, cool season flowers, great for bridging the seasons. They're great decorative pot flowers that are easy to maintain.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-4.jpg"
+          ]
+      },
+      {
+        "id" : "11",
+        "name" : "Gentian",
+        "latinName" : "Gentiana acaulis",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/gentian-title.jpg",
+        "bloomTime" : "spring",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "They are notable for their mostly large, trumpet-shaped flowers, which are often of an intense blue. Leaves are concentrated on the bottom of the plant are are usually dark green.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-4.jpg"
+          ]
+      },
+      {
+        "id" : "12",
+        "name" : "Evening primrose",
+        "latinName" : "Primula acaulis",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/eveningprimrose-title.jpg",
+        "bloomTime" : "spring",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "A perrenial plant that has single flowered stems. Its yellow flowers are notable for their use in alternative medicine.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-4.jpg"
+          ]
+      },
+      {
+        "id" : "13",
+        "name" : "Orchid",
+        "latinName" : "Orchidaceae",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/orchid-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "high",
+        "light" : "shadow",
+        "description" : "The most famous decorative and probably the gentlest pot flower to grow. It has got flowers in many different colours and is pretty much difficult to maintain.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-4.jpg"
+          ]
+      },
+      {
+        "id" : "14",
+        "name" : "Aconite",
+        "latinName" : "Aconitum napellus",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/aconite-title.jpeg",
+        "bloomTime" : "summer",
+        "humidity" : "medium",
+        "light" : "sunlight",
+        "description" : "It is an herbaceous perennial plant growing to 1 m tall, with hairless stems and leaves. Its flowers look beautiful, but swallowing any part of the plant could be deadly.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-3.png",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-4.jpg"
+          ]
+      },
+      {
+        "id" : "15",
+        "name" : "Hollyhock",
+        "latinName" : "Aconitum napellus",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/hollyhock-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "medium",
+        "light" : "sunlight",
+        "description" : "The alcea rosea is, with its luminous colors and beautiful flowers, a valued asset for every garden. The real eye-catcher of the hollyhock is its height.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-4.jpg"
+          ]
+      },
+      {
+        "id" : "16",
+        "name" : "Zebra-plant",
+        "latinName" : "Aphelandra squarrosa",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/zebraplant-title.jpg",
+        "bloomTime" : "autumn",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "This plant is often used as a house plant. If properly cared for, the Zebra plant can grow as tall as 2m outdoors or a little over 30cm if kept indoors.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-1.JPG",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-3.JPG",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-4.jpg"
+          ]
+      },
+      {
+        "id" : "17",
+        "name" : "Slipper flowers",
+        "latinName" : "Calceolaria",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/slipperflower-title.jpg",
+        "bloomTime" : "summer",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "This plant is often used as a house plant. They usually have yellow or orange flowers, which can have red or purple spots.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-4.jpg"
+          ]
+      },
+      {
+        "id" : "18",
+        "name" : "Goldfish plant",
+        "latinName" : "Columnea gloriosa",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/goldfishplant-title.jpg",
+        "bloomTime" : "winter",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "Columnea gloriosa is a perennial plant, known for the red long tubular shaped flowers appearing like leaping fish. ",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-4.jpg"
+          ]
+      },
+      {
+        "id" : "19",
+        "name" : "Crossandra",
+        "latinName" : "Crossandra infundibuliformis",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/crossandra-title.jpg",
+        "bloomTime" : "winter",
+        "humidity" : "medium",
+        "light" : "sunlight",
+        "description" : "This plant is native to Sri Lanka and southern India and features narrow, oblong leaves and pale, peachy or coral flowers. They are tropical plants with showy blooms grown as bedding plants in tropical and subtropical areas. ",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-2.JPG",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-4.jpg"
+          ]
+      },
+      {
+        "id" : "20",
+        "name" : "Florist's Cyclamen",
+        "latinName" : "Cyclamen persicum",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/cyclamen-title.jpg",
+        "bloomTime" : "winter",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "The indoor Cyclamen otherwise known as the Florist's Cyclamen is truly a special looking houseplant, the flowers are not only striking, pretty and colorful but full of poise and elegance.",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-4.jpg"
+          ]
+      },
+      {
+        "id" : "21",
+        "name" : "Poinsettia",
+        "latinName" : "Euphorbia pulcherrima",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/poinsetiia-title.jpg",
+        "bloomTime" : "winter",
+        "humidity" : "medium",
+        "light" : "shadow",
+        "description" : "The poinsettia is a commercially important plant species of the diverse spurge family. The species is indigenous to Mexico. It is particularly well known for its red and green foliage and is widely used in Christmas floral displays",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-4.jpg"
+          ]
+      },
+      {
+        "id" : "22",
+        "name" : "Rhododendron indicum",
+        "latinName" : "Rhododendron indicum",
+        "titleImage" : "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/title-imgs/rhododendron-title.jpg",
+        "bloomTime" : "spring",
+        "humidity" : "medium",
+        "light" : "half-shadow",
+        "description" : "Rhododendron indicum is native to Japan. It is a dense, semi-evergreen azalea that typically grows to 2-3’ tall. Funnel-shaped, red to scarlet flowers (to 2.5” diameter) bloom in trusses in late (May).",
+        "images" : [
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-1.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-2.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-3.jpg",
+          "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-4.jpg"
+          ]
+      }
+
+  ]
