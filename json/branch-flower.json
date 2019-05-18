@@ -8,6 +8,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "A plant that lasts many years and is characterised by its big and beautiful flowers that can be in many vivid colours.",
+        "price" : 120,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/daisy-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/daisy-2.jpg?raw=true",
@@ -24,6 +25,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "A plant that is called Sword Lily due to its sword shaped leaves. The flowers are grouped and on a single branch there can be up to 10 flowers. Colours can vary from crystal white to dark lilac.",
+        "price" : 130,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/swordlilly-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/swordlilly-2.jpg?raw=true",
@@ -40,6 +42,7 @@
         "humidity" : "low",
         "light" : "half-shadow",
         "description" : "A plant with tall stems that can be up to one metre tall and various sized leaves on them. Flowers are rich and can be doubled, and it's colours can vary by type.",
+        "price" : 150,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/peony-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/peony-2.jpg?raw=true",
@@ -56,6 +59,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "It's got its name due to the resemblance of its flower to the bird of paradise. It has got tall and sturdy stems and big grey-green leaves.",
+        "price" : 180,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/strelitzia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/strelitzia-2.jpg?raw=true",
@@ -72,6 +76,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "It's got long and narrow leaves and it's characterised by its white or yellow flowers. It has more than 40 subtypes and each one has some small variations in their flowers.",
+        "price" : 80,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/narcissus-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/narcissus-2.jpg?raw=true",
@@ -88,6 +93,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "Tulips are one of the most colourful flowers and its colour can vary from yellow, red, pink , etc. It's stems are not very long and it the leaves can be with little dots or lines.",
+        "price" : 100,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/tulip-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/tulip-2.jpg?raw=true",
@@ -104,6 +110,7 @@
         "humidity" : "low",
         "light" : "half-shadow",
         "description" : "It's name shows us that it's home is in Chile and Peru and it has got long twisted leaves. It's flowers are big, beautiful and can be of many vivid colours.",
+        "price" : 160,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/alstroemeria-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/alstroemeria-2.jpg?raw=true",
@@ -120,6 +127,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "It's highly decorative flower because it can stay fresh longer time than other flowers. It's flowers are group on a single stem and are uss=ually red-coloured.",
+        "price" : 120,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/clivia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/clivia-2.jpg?raw=true",
@@ -136,6 +144,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "It's a red coloured flower that grows on a stem high as 50-60 centimetres long. In the middle it has got a green star-shaped form that characterises this flower.",
+        "price" : 200,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/amaryllis-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/amaryllis-2.jpg?raw=true",
@@ -152,6 +161,7 @@
         "humidity" : "high",
         "light" : "sunlight",
         "description" : "This family of flowers has got many subtypes and they differ in size and color of the flowers. They can be different coloured and are pretty scented.",
+        "price" : 150,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/lilly-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/lilly-2.jpg?raw=true",
@@ -168,6 +178,7 @@
         "humidity" : "high",
         "light" : "sunlight",
         "description" : "This type of lilly is one of the most beautiful, but also dangerous flowers. It has got big white flowers whose scent can cause some serious health issues. This flower must be kept outside and out of reach of children.",
+        "price" : 150,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/madonnalilly-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/madonnalilly-2.jpg?raw=true",
@@ -184,6 +195,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "The most common type of rose is the one that grows in bushes and it has got stems with sharp pointy ends. The colour of the flower can vary from white, rose, bordeaux, red, lilac and is usually lush and gorgeous.",
+        "price" : 90,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/rose-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/rose-2.jpg?raw=true",
@@ -200,6 +212,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "These lush and beautiful flowers are usually found in many colours and are highly decorative. The plant itself is bushy with leaves with combined length.",
+        "price" : 80,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/carnation-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/carnation-2.jpg?raw=true",
@@ -216,6 +229,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "This particular flower is a many year plant that is one of the most interesting flowers because it keep its vivid color even after it is dry. It is used both fresh and dry for arrangements and decoration.",
+        "price" : 80,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/statice-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/statice-2.jpg?raw=true",
@@ -232,6 +246,7 @@
         "humidity" : "high",
         "light" : "sunlight",
         "description" : "This is one of the highest growing flowers and its stems can be up to metre and a half high. Flowers are usually white and it has got small dark green leaves.",
+        "price" : 100,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/newyorkaster-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/newyorkaster-2.jpg?raw=true",
@@ -248,6 +263,7 @@
         "humidity" : "high",
         "light" : "half-shadow",
         "description" : "This is one of the highest growing flowers and its stems can be up to metre and a half high. Flowers are many coloured and it has got small leaves.",
+        "price" : 110,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/chrysanthemum-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/chrysanthemum-2.jpg?raw=true",
@@ -264,6 +280,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "This kind of flower is characterised by its unordinary spider shape and scarlet colour. It grows on a plant with long stems and grey-green leaves.",
+        "price" : 140,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/redspiderlilly-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/redspiderlilly-2.jpg?raw=true",
@@ -280,6 +297,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "Polianthes tuberosa is a perennial plant related to the agaves, extracts of which are used as a note in perfumery. The flowers, which are many on a single stem, are white and highly scented.",
+        "price" : 170,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/tuberose-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/tuberose-2.jpg?raw=true",
@@ -296,6 +314,7 @@
         "humidity" : "low",
         "light" : "half-shadow",
         "description" : "Calla lilies are one of the most beautiful flowers with a unique flower form. Its long stems have only one white flower and one plant can have many stems with calla lillies.",
+        "price" : 80,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/calla-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/calla-2.jpg?raw=true",
@@ -312,6 +331,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "Petite, pink, funnel-shaped flowers bloom in early summer. Grow this fragrant, easy-care lily in a container garden or use as a ground cover or a house plant.",
+        "price" : 180,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/rainlilly-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/rainlilly-2.jpg?raw=true",
@@ -328,6 +348,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "Pancratium illyricum grows on rocky slopes and sparse woodland areas, from sea level to more than 1300 m above sea level. It is a bulbous perennial with glaucous leaves, 30–60 cm long, 1½–½ cm wide.",
+        "price" : 100,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/pancratium-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/pancratium-2.jpg?raw=true",
@@ -344,6 +365,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "The species are characterized by flamboyant red flowers with somewhat narrowed petals and long anthers and large stamens with yellow pollen.",
+        "price" : 170,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/sprekelia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/branch/flower-imgs/sprekelia-2.jpg?raw=true",
