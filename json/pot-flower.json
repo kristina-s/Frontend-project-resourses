@@ -8,6 +8,7 @@
       "humidity" : "medium",
       "light" : "half-shadow",
       "description" : "A decorative pot flower that lives many and grows 30-40 cm in height. It is characterised by it's red flowers and has got dark green leaves. ",
+      "price" : 200,
       "images" : [
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-1.jpg?raw=true",
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/anthurium-2.jpg?raw=true",
@@ -24,6 +25,7 @@
       "humidity" : "high",
       "light" : "sunlight",
       "description" : "A decorative pot or garden plant which is an evergreen small bush with oval shiny dark-green leaves. It can grow up to 2 metres and it's white flowers are very scented.",
+      "price" : 220,
       "images" : [
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-1.jpg?raw=true?raw=true",
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gardenia-2.jpg?raw=true?raw=true",
@@ -40,6 +42,7 @@
       "humidity" : "medium",
       "light" : "half-shadow",
       "description" : "A beautiful evergreen plant with a pyramid-like shape. It has got shiny green leaves and big white flowers that are also scented.",
+      "price" : 250,
       "images" : [
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-1.jpg?raw=true",
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/magnolia-2.jpg?raw=true",
@@ -56,6 +59,7 @@
       "humidity" : "low",
       "light" : "sunlight",
       "description" : "A decorative plant that has round structure and not much branching. It's pointy ends are very sharp and 5-10 centimetres long. It has got white flowers.",
+      "price" : 120,
       "images" : [
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-1.jpg?raw=true",
         "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cactus-2.jpg?raw=true",
@@ -72,6 +76,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "A pot and garden flower that has Persian origin. It's characterised by its soft green leaves and crystal white very scented flowers.",
+        "price" : 190,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/jasmine-2.jpg?raw=true",
@@ -88,6 +93,7 @@
         "humidity" : "low",
         "light" : "half-shadow",
         "description" : "A decorative pot flower characterised by its dark green leaves and flowers that can be of many colours varying from white, red, scarlet, yellow, etc.",
+        "price" : 230,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/begonia-2.jpg?raw=true",
@@ -104,6 +110,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "A pot and garden plant with round leaves that grows from 20 to 80 centimetres. Flowers are usually pink with lilac lines.",
+        "price" : 260,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/treemallows-2.jpg?raw=true",
@@ -120,6 +127,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "One of the most famous pot flowers that usually decorate or homes or balconies in the summer. Its flowers are small and of many different colours.",
+        "price" : 120,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/petunia-2.jpg?raw=true",
@@ -136,6 +144,7 @@
         "humidity" : "low",
         "light" : "sunlight",
         "description" : "A graden or pot plant that can have many uses even as a dried plant. It's flowers are purple and small, but its smell is felt from afar.",
+        "price" : 200,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/lavender-2.jpg?raw=true",
@@ -152,6 +161,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "Violas (Violaceae) are cheerful, hardy, cool season flowers, great for bridging the seasons. They're great decorative pot flowers that are easy to maintain.",
+        "price" : 180,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/violet-2.jpg?raw=true",
@@ -168,6 +178,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "They are notable for their mostly large, trumpet-shaped flowers, which are often of an intense blue. Leaves are concentrated on the bottom of the plant are are usually dark green.",
+        "price" : 270,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/gentian-2.jpg?raw=true",
@@ -184,6 +195,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "A perrenial plant that has single flowered stems. Its yellow flowers are notable for their use in alternative medicine.",
+        "price" : 220,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/eveningprimrose-2.jpg?raw=true",
@@ -200,6 +212,7 @@
         "humidity" : "high",
         "light" : "shadow",
         "description" : "The most famous decorative and probably the gentlest pot flower to grow. It has got flowers in many different colours and is pretty much difficult to maintain.",
+        "price" : 900,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/orchid-2.jpg?raw=true",
@@ -216,6 +229,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "It is an herbaceous perennial plant growing to 1 m tall, with hairless stems and leaves. Its flowers look beautiful, but swallowing any part of the plant could be deadly.",
+        "price" : 450,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/aconite-2.jpg?raw=true",
@@ -232,6 +246,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "The alcea rosea is, with its luminous colors and beautiful flowers, a valued asset for every garden. The real eye-catcher of the hollyhock is its height.",
+        "price" : 300,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/hollyhock-2.jpg?raw=true",
@@ -248,6 +263,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "This plant is often used as a house plant. If properly cared for, the Zebra plant can grow as tall as 2m outdoors or a little over 30cm if kept indoors.",
+        "price" : 550,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-1.JPG?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/zebraplant-2.jpg?raw=true",
@@ -264,6 +280,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "This plant is often used as a house plant. They usually have yellow or orange flowers, which can have red or purple spots.",
+        "price" : 320,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/slipperflower-2.jpg?raw=true",
@@ -280,6 +297,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "Columnea gloriosa is a perennial plant, known for the red long tubular shaped flowers appearing like leaping fish. ",
+        "price" : 410,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/goldfishplant-2.jpg?raw=true",
@@ -296,6 +314,7 @@
         "humidity" : "medium",
         "light" : "sunlight",
         "description" : "This plant is native to Sri Lanka and southern India and features narrow, oblong leaves and pale, peachy or coral flowers. They are tropical plants with showy blooms grown as bedding plants in tropical and subtropical areas. ",
+        "price" : 300,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/crossandra-2.JPG?raw=true",
@@ -312,6 +331,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "The indoor Cyclamen otherwise known as the Florist's Cyclamen is truly a special looking houseplant, the flowers are not only striking, pretty and colorful but full of poise and elegance.",
+        "price" : 520,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/cyclamen-2.jpg?raw=true",
@@ -328,6 +348,7 @@
         "humidity" : "medium",
         "light" : "shadow",
         "description" : "The poinsettia is a commercially important plant species of the diverse spurge family. The species is indigenous to Mexico. It is particularly well known for its red and green foliage and is widely used in Christmas floral displays",
+        "price" : 250,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/poinsettia-2.jpg?raw=true",
@@ -344,6 +365,7 @@
         "humidity" : "medium",
         "light" : "half-shadow",
         "description" : "Rhododendron indicum is native to Japan. It is a dense, semi-evergreen azalea that typically grows to 2-3’ tall. Funnel-shaped, red to scarlet flowers (to 2.5” diameter) bloom in trusses in late (May).",
+        "price" : 270,
         "images" : [
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-1.jpg?raw=true",
           "https://github.com/kristina-s/Frontend-project-resourses/blob/master/images/potted/flower-imgs/rhododendron-2.jpg?raw=true",
